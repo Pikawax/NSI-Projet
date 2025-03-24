@@ -1,0 +1,31 @@
+.search-container {
+    margin-left:10px;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 5px;
+    background: white;
+}
+
+.search-container input {
+    border: none;
+    outline: none;
+    flex: 1;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.search-container button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+mark {
+    background-color: yellow;
+    font-weight: bold;
+}

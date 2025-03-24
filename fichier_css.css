@@ -1,0 +1,76 @@
+
+<link rel="stylesheet" href="C:\Users\gauvr\OneDrive - LYCEE POLYVALENT PRIVE NOTRE DAME DU ROC\NSI\Projet\Projet-NSI\Accueil.html">
+	
+	table{
+	border-collapse: separate; 
+	}
+	nav { background-color : rgb(46 46 46); 
+			height : 100px ;
+			width : 1000px;
+			margin-bottom : 10px;
+			border-bottom: 1px solid;
+			margin: 0 auto;
+					
+	}
+	#container{margin-left:10px;}
+	.navigation {margin: 0 auto;}
+	
+	#accueil {color:rgb(255, 255, 255);
+			  margin-left: 10px ;
+			  margin-right: 10px;
+			  }
+
+	#samsungs25 {color : rgb(255 255 255) ;
+				 margin-left: 10px;
+				 margin-right: 10px;}
+
+	#iphone16 {color: white;
+			   margin-right:320px;}
+	
+img {
+	margin-top:10px;
+	margin-left: 125px ;
+	margin-bottom: 10%;
+
+	
+	width: 1095px;
+	height: 150px ; /* La hauteur s’ajuste automatiquement */
+	}
+
+body {background-color : rgb(30, 30, 30);
+	  
+ }
+
+table{
+	margin-top: 15px;
+	margin-left: 10px;
+	border-radius: 5px;
+	overflow: hidden;
+	}
+	
+	table tr td:nth-child(1) {border-top-left-radius: 10px;
+							  border-top-right-radius: 10px;}
+	table tr td:nth-child(2) {border-top-left-radius: 10px;
+							  border-top-right-radius: 10px;
+							  border-bottom-left-radius: 10px;
+							  border-bottom-right-radius: 10px;}
+	table tr td:nth-child(3) {border-top-left-radius: 10px;
+							  border-top-right-radius: 10px;
+							  border-bottom-left-radius: 10px;
+							  border-bottom-right-radius: 10px;}
+
+#tableau{ 
+	padding: 10px 150px; 
+	text-align: center; 
+	max-width: 300px;
+	color : rgb(0, 0, 0);
+	background-color: rgb(217 217 217);
+	}
+
+footer {background-color:rgb(46 46 46); 
+		border: solid ;
+		border-color :rgb(46 46 46);
+		max-width: 0 auto;
+		height: 200px; 
+	    margin-top: 50px;   }
+#BasPage { color : white ; }
